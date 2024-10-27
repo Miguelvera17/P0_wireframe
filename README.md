@@ -1,5 +1,4 @@
 # P0_wireframe
-
 # Tienda de guitarras deluxe
 
 Diseño del wireframe de baja fidelidad (BF) de un E-commerce para vender guitarras deluxe. 
@@ -37,8 +36,26 @@ Necesidades Básicas del cliente:
     a) Sección para publicar articulos sobre guitarras, mantenimento y noticias del sector.
 ````
 
+#  DAW
+
+![img1](20241027_172814.jpg)
+
+![img2](20241027_172823.jpg)
+
+![img3](20241027_172836.jpg)
+
+![img4](20241027_172841.jpg)
+
+![img5](20241027_172853.jpg)
+
+![img6](20241027_172859.jpg)
+
+![img7](20241027_172907.jpg)
+
+# DAM
 ![alt text](imagen1.jpg)
 
 ![alt text](imagen2.jpg)
 
 ![alt text](imagen3.jpg)
+
